@@ -49,5 +49,19 @@
         android:textSize="20dp"
         />
 
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/za_loopa"
+        android:layout_gravity="end"
+        android:layout_marginRight="50dp"
+    />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:text="no idea what to write"
+        android:backgroundTint="#4D653C"
+        />
 
 </androidx.appcompat.widget.LinearLayoutCompat>
